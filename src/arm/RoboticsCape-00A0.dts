@@ -78,7 +78,7 @@ fragment@1 {
 			0x098 0x37	/*P8.10 MODE BUTTON input pullup*/
 			0x1AC 0x37	/*P9.25 MPU-9150 INTERRUPT IN*/
 
-			/* GPIO Outputs
+			/* GPIO Outputs	*/
 			0x090 0x0F	/*P8.7, MODE7*/
 			0x094 0x0F	/*P8.8*/
 			0x028 0x0F	/*P8.14*/
